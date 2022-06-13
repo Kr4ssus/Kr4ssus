@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kr4ssus
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning HTML, CSS, Javascript, TSQL
+- 🌱 I’m currently learning HTML, CSS, Javascript, TSQL, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
